@@ -6,13 +6,13 @@
 ![Your browser, without dozens of tabs](https://user-images.githubusercontent.com/39353278/83576124-c11f6300-a539-11ea-8e3d-197e3bb61032.gif)
 
 
-####Save your resources, reach them from anywhere
+#### Save your resources, reach them from anywhere
 We hated our dozens of tabs opened in our browser. It was messy and distracting so we created this extension, and an online library where you can save links. You can store your articles, videos and other stuff as collections. (eg. best resources and repos for Go Lang)
 
-####Search your articles, videos, links and more
+#### Search your articles, videos, links and more
 I hated searching my history for articles that I want it to check again, or share with my friend. For that reason, you can search your entire online library. Find your collections and favorite resources easily.
 
-####Discover or Share Collections
+#### Discover or Share Collections
 You can discover hand-picked collections of articles, videos and more., or basically shares yours with community and friends.
 
 You can create newsletters, learning paths, favorites list and more with collections.
@@ -25,23 +25,16 @@ You can create newsletters, learning paths, favorites list and more with collect
 
 
 
-## Usage
+## How to install
 
-### `npm run build`
+![488de2ae-b61b-4c49-9869-675b37950a1f](https://user-images.githubusercontent.com/39353278/83577550-2b85d280-a53d-11ea-808c-4ec617e333db.jpg)
+--
+![9125764b-b919-4e6a-9fa8-75725655a142](https://user-images.githubusercontent.com/39353278/83577562-32144a00-a53d-11ea-8a6a-a54f231bc634.jpg)
+--
+![76a69ebd-a0c4-4ac8-aae7-f6d30bb826e8](https://user-images.githubusercontent.com/39353278/83577572-38a2c180-a53d-11ea-9d8f-0016eff8612d.jpg)
+--
+![c735bf96-1d5b-4fb7-a6f0-f38edd0d1149](https://user-images.githubusercontent.com/39353278/83577579-3ccedf00-a53d-11ea-8a0f-c490873b66cc.jpg)
 
-Build the extension into `dist` folder for **production**.
-
-### `npm run build:dev`
-
-Build the extension into `dist` folder for **development**.
-
-### `npm run watch`
-
-Watch for modifications then run `npm run build`.
-
-### `npm run watch:dev`
-
-Watch for modifications then run `npm run build:dev`.
 
 
 ## Author
