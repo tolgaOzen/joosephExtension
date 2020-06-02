@@ -34,8 +34,8 @@ You can create newsletters, learning paths, favorites list and more with collect
 ![76a69ebd-a0c4-4ac8-aae7-f6d30bb826e8](https://user-images.githubusercontent.com/39353278/83577572-38a2c180-a53d-11ea-9d8f-0016eff8612d.jpg)
 --
 ![c735bf96-1d5b-4fb7-a6f0-f38edd0d1149](https://user-images.githubusercontent.com/39353278/83577579-3ccedf00-a53d-11ea-8a0f-c490873b66cc.jpg)
-
-
+--
+![29e6ceb0-cbc5-499a-9cfb-c64909cc1b74](https://user-images.githubusercontent.com/39353278/83577749-b5ce3680-a53d-11ea-8fc4-0632885f4f25.jpg)
 
 ## Author
 
