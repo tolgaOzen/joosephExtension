@@ -1,6 +1,6 @@
 {
   "name": "jooseph.com",
-  "description": "jooseph extension",
+  "description": "For saving articles, videos, links and more into your online library",
   "version": "1.0.0",
   "manifest_version": 2,
   "icons": {
@@ -17,9 +17,7 @@
     ]
   },
   "permissions": [
-    "activeTab",
-    "identity",
-    "https://jooseph.com/*"
+    "tabs"
   ],
   "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'"
 }
